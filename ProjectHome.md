@@ -1,0 +1,1 @@
+If some person have a PDA, they can install this software and later anyone can track they in pc (they see the real position of PDA with Google Maps)
